@@ -1,0 +1,17 @@
+[theme]
+font="Inter:https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+
+base="light"
+primaryColor="#738187"
+backgroundColor="#f1efea"
+secondaryBackgroundColor="#d9dbd6"
+fontColor="#3c2644"
+baseRadius="large"
+
+redColor = "#991b1b"
+orangeColor = "#ea580c"
+yellowColor = "#facc15"
+greenColor = "#65a30d"
+blueColor = "#0284c7"
+violetColor = "#db2777"
+grayColor = "#a3a3a3"
